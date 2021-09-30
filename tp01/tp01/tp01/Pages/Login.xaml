@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="tp01.Pages.Login">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#000"
+                     Padding="20, 0, 20, 0">
+            <Label Text="Aplicação Teste" 
+                   FontSize="30" 
+                   FontAttributes="Bold" 
+                   HorizontalTextAlignment="Center" 
+                   Margin="0, 30, 0, 50"
+            />
+
+            <Grid Margin="0, 20, 0, 0">
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="80" />
+                    <ColumnDefinition Width="1*" />
+                </Grid.ColumnDefinitions>
+                <Label Text="ID: "
+                       FontSize="25"
+                       FontAttributes="Bold" 
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center" />
+                <BoxView Grid.Column="1" 
+                         Color="#FFF" 
+                         CornerRadius="10" />
+                <Entry x:Name="txtId"
+                       Grid.Column="1" 
+                       FontSize="25"
+                       TextColor="#000"
+                       VerticalOptions="Center" />
+                <Label Grid.Row="1" 
+                       Grid.Column="0" 
+                       Text="Pass: "
+                       FontSize="25"
+                       FontAttributes="Bold" 
+                       HorizontalOptions="Center"
+                       VerticalOptions="Center" />
+                <BoxView Grid.Row="1"
+                        Grid.Column="1" 
+                        BackgroundColor="#FFF" 
+                        CornerRadius="10" />
+                <Entry x:Name="txtPass"
+                       Grid.Row="1"
+                       Grid.Column="1"
+                       FontSize="25"
+                       TextColor="#000"
+                       IsPassword="True"
+                       VerticalOptions="Center"  />
+            </Grid>
+
+            <Button Text="OK"
+                    BackgroundColor="#fcc2c2"
+                    TextColor="red"
+                    FontSize="25"
+                    FontAttributes="Bold"
+                    Margin="0, 120, 0, 0"
+                    x:Name="ButtonOk"
+                    Clicked="ButtonOKClicked" />
+
+            <Button Text="Limpar"
+                    BackgroundColor="#fcc2c2"
+                    TextColor="red"
+                    FontSize="25"
+                    FontAttributes="Bold"
+                    Margin="0, 20, 0, 0"
+                    Clicked="ButtonClearClicked" />
+
+            <Button Text="Créditos"
+                    BackgroundColor="#fcc2c2"
+                    TextColor="red"
+                    FontSize="25"
+                    FontAttributes="Bold"
+                    Margin="0, 20, 0, 0"
+                    Clicked="ButtonCreditsClicked" />
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
