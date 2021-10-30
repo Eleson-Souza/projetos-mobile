@@ -1,9 +1,6 @@
-# TP 02 - Dispositivos Móveis   
-## Autores: 
-- Anderson Conceição  CB3005534.
-- Angelo Evangelista  CB3005593.
+## Autores:
 
-:-) 
+- Eleson De Souza Oliveira.
+- Lucas Sérgio Denhei Alexandre.
 
-![Funcionamento do app](Demo2.gif)
-
+[![Assista à demonstração do TP 02](thumb_video)](https://youtu.be/ze62bzzC_Ys)
