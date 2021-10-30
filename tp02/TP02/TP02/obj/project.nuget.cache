@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nCFEKtX8afUVLzJ+QQgwc+pZtevTV1rrwBfUf8TGa3EKKQRChtA6oHByLu1woGDcaI97k1TGQBhUkilmD8IoVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC3\\Desktop\\www\\projetos-mobile\\tp02\\TP02\\TP02\\TP02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC3\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\PC3\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\PC3\\.nuget\\packages\\xamarin.forms\\3.4.0.1008975\\xamarin.forms.3.4.0.1008975.nupkg.sha512"
+  ],
+  "logs": []
+}
