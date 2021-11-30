@@ -1,0 +1,15 @@
+C:\Users\PC3\source\repos\tp03_mobile\tp03_mobile\tp03_mobile\bin\Debug\netstandard2.0\tp03_mobile.deps.json
+C:\Users\PC3\source\repos\tp03_mobile\tp03_mobile\tp03_mobile\bin\Debug\netstandard2.0\tp03_mobile.dll
+C:\Users\PC3\source\repos\tp03_mobile\tp03_mobile\tp03_mobile\bin\Debug\netstandard2.0\ref\tp03_mobile.dll
+C:\Users\PC3\source\repos\tp03_mobile\tp03_mobile\tp03_mobile\bin\Debug\netstandard2.0\tp03_mobile.pdb
+C:\Users\PC3\source\repos\tp03_mobile\tp03_mobile\tp03_mobile\obj\Debug\netstandard2.0\tp03_mobile.csproj.AssemblyReference.cache
+C:\Users\PC3\source\repos\tp03_mobile\tp03_mobile\tp03_mobile\obj\Debug\netstandard2.0\tp03_mobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC3\source\repos\tp03_mobile\tp03_mobile\tp03_mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PC3\source\repos\tp03_mobile\tp03_mobile\tp03_mobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PC3\source\repos\tp03_mobile\tp03_mobile\tp03_mobile\obj\Debug\netstandard2.0\tp03_mobile.AssemblyInfoInputs.cache
+C:\Users\PC3\source\repos\tp03_mobile\tp03_mobile\tp03_mobile\obj\Debug\netstandard2.0\tp03_mobile.AssemblyInfo.cs
+C:\Users\PC3\source\repos\tp03_mobile\tp03_mobile\tp03_mobile\obj\Debug\netstandard2.0\tp03_mobile.csproj.CoreCompileInputs.cache
+C:\Users\PC3\source\repos\tp03_mobile\tp03_mobile\tp03_mobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PC3\source\repos\tp03_mobile\tp03_mobile\tp03_mobile\obj\Debug\netstandard2.0\tp03_mobile.dll
+C:\Users\PC3\source\repos\tp03_mobile\tp03_mobile\tp03_mobile\obj\Debug\netstandard2.0\ref\tp03_mobile.dll
+C:\Users\PC3\source\repos\tp03_mobile\tp03_mobile\tp03_mobile\obj\Debug\netstandard2.0\tp03_mobile.pdb
