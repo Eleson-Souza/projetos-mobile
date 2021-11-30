@@ -4,7 +4,7 @@
 - Lucas Sérgio Denhei Alexandre.
 
 ## Endpoint da API [/api/Logins1]
-![Endpoint](endpoint.jpg)
+![Endpoint](endpoint.gif)
 
 ## Demonstração da Aplicação Mobile
 ![Demo](demo.gif)
