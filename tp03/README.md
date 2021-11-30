@@ -3,4 +3,8 @@
 - Eleson De Souza Oliveira.
 - Lucas Sérgio Denhei Alexandre.
 
-## Demonstração
+## Endpoint da API [/api/Logins1]
+![Endpoint](endpoint.jpg)
+
+## Demonstração da Aplicação Mobile
+![Demo](demo.gif)
